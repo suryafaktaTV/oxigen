@@ -1,0 +1,183 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="BeritaSatu" group-title="Local (test)", BeritaSatu
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/35
+#EXTINF: -1 tvg-name="CNBC Indonesia" group-title="Local (test)", CNBC Indonesia
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/37
+#EXTINF: -1 tvg-name="CNN Indonesia" group-title="Local (test)", CNN Indonesia
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/33
+#EXTINF: -1 tvg-name="GTV" group-title="Local (test)", GTV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/80
+#EXTINF: -1 tvg-name="Kompas TV" group-title="Local (test)", Kompas TV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/67
+#EXTINF: -1 tvg-name="ANTV" group-title="Local (test)", ANTV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/87
+#EXTINF: -1 tvg-name="Indosiar" group-title="Local (test)", Indosiar
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/40
+#EXTINF: -1 tvg-name="Metro TV" group-title="Local (test)", Metro TV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/31
+#EXTINF: -1 tvg-name="MNCTV" group-title="Local (test)", MNCTV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/88
+#EXTINF: -1 tvg-name="NET." group-title="Local (test)", NET.
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/32
+#EXTINF: -1 tvg-name="RCTI" group-title="Local (test)", RCTI
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/82
+#EXTINF: -1 tvg-name="SCTV" group-title="Local (test)", SCTV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/39
+#EXTINF: -1 tvg-name="Trans 7" group-title="Local (test)", Trans 7
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/30
+#EXTINF: -1 tvg-name="Trans TV" group-title="Local (test)", Trans TV
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/29
+#EXTINF: -1 tvg-name="tvOne" group-title="Local (test)", tvOne
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/41
+#EXTINF: -1 tvg-name="TVRI" group-title="Local (test)", TVRI
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/42
+#EXTINF: -1 tvg-name="CNA" group-title="All campur (test)", CNA
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/77
+#EXTINF: -1 tvg-name="Sony One" group-title="All campur (test)", Sony One
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/73
+#EXTINF: -1 tvg-name="&flix" group-title="All campur (test)", &flix
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/53
+#EXTINF: -1 tvg-name="AFN" group-title="All campur (test)", AFN
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/10
+#EXTINF: -1 tvg-name="Al Jazeera" group-title="All campur (test)", Al Jazeera
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/65
+#EXTINF: -1 tvg-name="Animal Planet" group-title="All campur (test)", Animal Planet
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/27
+#EXTINF: -1 tvg-name="BBC Lifestyle" group-title="All campur (test)", BBC Lifestyle
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/15
+#EXTINF: -1 tvg-name="Blue Ant Entertainment" group-title="All campur (test)", Blue Ant Entertainment
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/70
+#EXTINF: -1 tvg-name="Blue Ant Extreme" group-title="All campur (test)", Blue Ant Extreme
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/71
+#EXTINF: -1 tvg-name="CBeebies" group-title="All campur (test)", CBeebies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/22
+#EXTINF: -1 tvg-name="Channel V" group-title="All campur (test)", Channel V
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/86
+#EXTINF: -1 tvg-name="Cinemax" group-title="All campur (test)", Cinemax
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/51
+#EXTINF: -1 tvg-name="Disney Channel" group-title="All campur (test)", Disney Channel
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
+#EXTINF: -1 tvg-name="EBS KIDS" group-title="All campur (test)", EBS KIDS
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/58
+#EXTINF: -1 tvg-name="Eurosport 1" group-title="All campur (test)", Eurosport 1
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/62
+#EXTINF: -1 tvg-name="Eurosport 2" group-title="All campur (test)", Eurosport 2
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/90
+#EXTINF: -1 tvg-name="FOX" group-title="All campur (test)", FOX
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
+#EXTINF: -1 tvg-name="FOX Action Movies" group-title="All campur (test)", FOX Action Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+#EXTINF: -1 tvg-name="FOX Crime" group-title="All campur (test)", FOX Crime
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
+#EXTINF: -1 tvg-name="FOX Family Movies " group-title="All campur (test)", FOX Family Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
+#EXTINF: -1 tvg-name="FOX Life" group-title="All campur (test)", FOX Life
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
+#EXTINF: -1 tvg-name="FOX Movies" group-title="All campur (test)", FOX Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
+#EXTINF: -1 tvg-name="FOX Sports 1 " group-title="All campur (test)", FOX Sports 1
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
+#EXTINF: -1 tvg-name="FOX Sports 2 " group-title="All campur (test)", FOX Sports 2
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
+#EXTINF: -1 tvg-name="FOX Sports 3" group-title="All campur (test)", FOX Sports 3
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/19
+#EXTINF: -1 tvg-name="Gem" group-title="All campur (test)", Gem
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/24
+#EXTINF: -1 tvg-name="Golf" group-title="All campur (test)", Golf
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/38
+#EXTINF: -1 tvg-name="HBO" group-title="All campur (test)", HBO
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/50
+#EXTINF: -1 tvg-name="HBO Hits" group-title="All campur (test)", HBO Hits
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/52
+#EXTINF: -1 tvg-name="HITS" group-title="All campur (test)", HITS
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
+#EXTINF: -1 tvg-name="HITS Movies" group-title="All campur (test)", HITS Movies
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
+#EXTINF: -1 tvg-name="K+" group-title="All campur (test)", K+
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/72
+#EXTINF: -1 tvg-name="Love Nature" group-title="All campur (test)", Love Nature
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/16
+#EXTINF: -1 tvg-name="National Geographic" group-title="All campur (test)", National Geographic
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
+#EXTINF: -1 tvg-name="National Geographic People" group-title="All campur (test)", National Geographic People
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/8
+#EXTINF: -1 tvg-name="National Geographic Wild" group-title="All campur (test)", National Geographic Wild
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
+#EXTINF: -1 tvg-name="Spacetoon" group-title="All campur (test)", Spacetoon
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/21
+#EXTINF: -1 tvg-name="Super Sports 1" group-title="All campur (test)", Super Sports 1
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/75
+#EXTINF: -1 tvg-name="Super Sports 2" group-title="All campur (test)", Super Sports 2
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/78
+#EXTINF: -1 tvg-name="TLC" group-title="All campur (test)", TLC
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/66
+#EXTINF: -1 tvg-name="tVN" group-title="All campur (test)", tVN
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/60
+#EXTINF: -1 tvg-name="TVOKids" group-title="All campur (test)", TVOKids
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/57
+#EXTINF: -1 tvg-name="ZooMoo" group-title="All campur (test)", ZooMoo
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/23
+#EXTINF: -1 tvg-name="&privé HD" group-title="All campur (test)", &privé HD
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/91
+#EXTINF: -1 tvg-id="Erz.Sexykpop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65OUGMlPULxBGuFtMNJwN4d0rYrmk7spUgw&usqp=CAU" group-title="All campur (test)", Sexy Kpop Tv
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.Radio51" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQgYzyk0mtMSSco2ueCp3nrRzXjGwX5iUzA&usqp=CAU" group-title="All campur (test)", Radio 51 Tv
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="Erz.popMusic" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="All campur (test)", Pop Music
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.Hitsmusic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdM12SRKBVaURgO2BZAb7DdwSNnXQoGFluNw&usqp=CAU" group-title="All campur (test)", Hits Music Now
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF: -1 tvg-id="Erz.Mtvkorea" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkz-GuKNTDhpdU6JV_7RsdQus1rx4kyN1IA&usqp=CAU" group-title="All campur (test)", Sbs MTv Korea
+http://132.145.80.35:9876/stream/channelid/554374937?profile=pass
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCUq8oSvbFItsT88a2mzpeuFKf4rjM_FnHA&usqp=CAU" group-title="All campur (test)", MTV BlocKparty
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF: -1 tvg-id="Erz.mtvmix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyuYx7UYuJa4EIl_S_SN54r_cSwMJ6lodMtw&usqp=CAU" group-title="All campur (test)", Mtv Mix
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF: -1 tvg-id="Erz.mtvmix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WxaYlqAk8tbEkuq1DpGOrl1f4fm2ofFA&usqp=CAU" group-title="All campur (test)", MTv Yo
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+#EXTINF: -1 tvg-id="Erz.mtvmix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXpgmP2AMrv8gan7XLfDI2jzVLMCKOgybrA&usqp=CAU" group-title="All campur (test)", MTv Biggest Pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF: -1 tvg-id="Erz.vivatv" tvg-name="Viva Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUipIO7SHetcgggbId_g7Z1eFTsAzcYCc65Q&usqp=CAU" group-title="All campur (test)", Viva
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF: -1 tvg-id="Erz.Maleo" tvg-logo="https://i.ibb.co/G9j64dP/maleo.jpg" group-title="All campur (test)", MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.ChannelV" tvg-name="Channel V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="All campur (test)", Channel V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+#EXTINF: -1 tvg-id="Erz.citradangdut" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ziv42k_p6xUIMBqi76K-fn9o7UA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="All campur (test)", Citra Dangdut
+https://iptvid.cgflix.xyz/vidio/cdangdut.m3u8
+#EXTINF: -1 tvg-id="Erz.Mezzo" tvg-logo="https://www.mezzo.tv/6023fbd0/static/img/generic/mezzo.jpg" group-title="All campur (test)", Mezzo
+http://92.43.140.200/s35/04.m3u8
+#EXTINF: -1 tvg-id="Erz.21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6B-rBGKAGVw-EhunpvN9pf3fbjUvmBR31A&usqp=CAU" group-title="All campur (test)", 21
+http://92.43.140.200/s10/04.m3u8
+#EXTINF: -1 tvg-id="Erz.Bridgetv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvVVoAdNo-xP-xPM2yFvkEcRRen66nN7A2g&usqp=CAU" group-title="All campur (test)", Bridge Tv
+http://92.43.140.200/s34/04.m3u8
+#EXTINF: -1 tvg-id="Erz.Boogle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNsF-P7tf18_Zze0GRA0gxy0pyOJRezQXPw&usqp=CAU" group-title="All campur (test)", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8?id=eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="Erz.Musicindia" tvg-logo="https://i.ibb.co/jTMv9B5/musicindia.png" group-title="All campur (test)", Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8?id=eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="DesiChannel.in" tvg-name="Desi Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPtxPtUie7MNnnJ2cHaro98zphs1ivtYAXQ&usqp=CAU" group-title="All campur (test)", Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF: -1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCHg4lgNySmBiieEYGNS39RMz1eB52i55UQ&usqp=CAU" group-title="All campur (test)", 7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF: -1 tvg-id="Erz.9xm" tvg-logo="https://i.ibb.co/DRbpBxr/9XM.jpg" group-title="All campur (test)", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/eroz_brebes.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T3gLWC9X/1200px-Dee-Jay-TV-svg.png" group-title="All campur (test)", DEE JAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1 tvg-id="Erz.Cmc" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="All campur (test)", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="Erz.M2o" tvg-logo="https://i.ibb.co/K5rFymS/m2o.jpg" group-title="All campur (test)", M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?id=eroz_brebes
+#EXTINF: -1 tvg-id="Erz.Musictop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99qfUp77sn9g633F097vmYJQCn5eCfoUCgg&usqp=CAU" group-title="All campur (test)", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="Erz.Retro" tvg-logo="https://i.ibb.co/zsM7N5T/retro.jpg" group-title="All campur (test)", RETRO
+http://89.185.253.55/retrotv/retrotvHQ1/eroz_brebes.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="All campur (test)", Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF: -1 tvg-id="ArabicaMusic.lb" tvg-name="Arabica Music" tvg-logo="http://arabicagroup.tv/images/logo.png" group-title="All campur (test)", Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.PortalfoxMix" tvg-logo="https://i.ibb.co/JnXtLYN/pfm.png" group-title="All campur (test)", Portal Fox Mix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="Erz.Spirittv" tvg-logo="https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png" group-title="All campur (test)", SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
+#EXTINF: -1 tvg-id="Erz.Xalastra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnclJI76Hs7fRAwGWqc7j0iDJ3EV1zxMhQ4g&usqp=CAU" group-title="All campur (test)", XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/eroz_brebes.m3u8
